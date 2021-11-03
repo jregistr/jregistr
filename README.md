@@ -13,3 +13,5 @@ I'm a backend developer. I'm currently interested in learning:
 - 🌏 Web Frontend
 - 🎮 Game Dev
 - 🦀 Rust
+
+Ask me about GraphQL & Scala
